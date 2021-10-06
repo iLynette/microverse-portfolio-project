@@ -3,4 +3,7 @@
     background-color: lightblue;
     width: 100%;
   }
+  #welcome-section {
+    height: 90vw;
+  }
 }
