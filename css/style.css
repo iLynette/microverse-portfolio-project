@@ -1,0 +1,6 @@
+@media only screen and (max-width: 600px) {
+  .project-tile {
+    background-color: lightblue;
+    width: 100%;
+  }
+}
